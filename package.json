@@ -1,0 +1,36 @@
+{
+  "name": "compliance",
+  "version": "1.0.0",
+  "description": "compliance",
+  "main": "compliance.js",
+  "scripts": {
+    "start": "node compliance.js"
+  },
+  "author": "ipsita",
+  "license": "brainium information technologies pvt ltd",
+  "dependencies": {
+    "async": "^3.2.1",
+    "axios": "^0.24.0",
+    "bcrypt": "^5.0.1",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "cron": "^1.8.2",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.1",
+    "get-video-duration": "^4.0.0",
+    "http": "0.0.1-security",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.21",
+    "method-override": "^3.0.0",
+    "moment": "^2.29.1",
+    "mongoose": "^5.13.7",
+    "node-machine-id": "^1.1.12",
+    "nodemailer": "^6.6.3",
+    "nodemailer-smtp-transport": "^2.7.4",
+    "randomatic": "^3.1.1",
+    "resize-img": "^2.0.0",
+    "serial-number": "^1.3.0",
+    "simple-thumbnail": "^1.6.5",
+    "socket.io": "^4.4.1"
+  }
+}
